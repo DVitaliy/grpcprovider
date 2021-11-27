@@ -1,0 +1,19 @@
+{
+  "name": "@DVitaliy/grpcprovider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DVitaliy/grpcprovider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DVitaliy/grpcprovider/issues"
+  },
+  "homepage": "https://github.com/DVitaliy/grpcprovider#readme"
+}
