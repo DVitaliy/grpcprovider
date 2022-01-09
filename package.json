@@ -1,5 +1,5 @@
 {
-  "name": "@DVitaliy/grpcprovider",
+  "name": "@dvitaliy/grpcprovider",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DVitaliy/grpcprovider.git"
   },
-  "author": "",
+  "author": "Dynnik Vitaly",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DVitaliy/grpcprovider/issues"
